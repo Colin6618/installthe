@@ -8,7 +8,9 @@ Usage
 - install caddy
 
 ` curl https://raw.githubusercontent.com/Colin6618/installthe/master/caddy | bash `
-	 or
+
+or
+
 ` wget -qO- https://raw.githubusercontent.com/Colin6618/installthe/master/caddy  | bash `
 
 - install n

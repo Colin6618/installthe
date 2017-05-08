@@ -3,8 +3,13 @@
   "version": "1.0.0",
   "description": "Installer Script Collection",
   "main": "index.js",
+  "bugs": "https://github.com/Colin6618/installthe/issues",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Colin6618/installthe.git"
   },
   "keywords": [
     "script",
@@ -13,6 +18,9 @@
     "installer",
     "Collection"
   ],
+  "engines": {
+    "node": "*"
+  },
   "author": "Colin6618",
   "license": "MIT"
 }
